@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio design using HTML</title>
+
+</head>
+<body bgcolor="sky blue">
+        <font align="center">
+
+            <header>
+
+                <hr align="center" width="50%">
+                <hr align="center" width="40%">
+
+                  <h1 style="line-height: 60px;color:#0B0B3B;">Tathagata Mitra</h1>
+                    <font size="4">
+                    <address style="color:#0B0B3B;">Vill- Parijat Nagar, P.S- Memari, P.O- Memari, dist- Burdwan, PIN- 713146  </address>
+                    <span>
+                        <a href="mailto:">mitra.tg123@gmail.com</a> 
+                        <font color="grey"><b>/</b></font>  
+                        <a href="mailto:">mtathagata144@gmail.com</a>
+                    </span>
+                   </font> <br><br>
+
+                   <hr align="center" width="40%">
+                    <hr align="center" width="50%">
+
+            </header><br>
+
+                    <section>
+
+                        <hr align="center" width="50%">
+                        <hr align="center" width="40%">
+
+                        <h3><u>ABOUT ME</u></h3>
+                                <i> Ambitious, Hardworking, responsible person and exploring new technologies. </i>
+                                <i><p>
+                                     Versatile in any environment and seeking an opportunity to work with and for the benefit of the organization.
+                                    </p> 
+                                </i>
+                                <br>
+
+                                <h3><u>TECHNICAL SKILLS </u></h3>
+                                <i>C, C++,  Java Spring Boot , Html, Css, JavaScript, Python Django, Oracle, MySQL  </i> <br><br>
+
+                                <h3><u>ACHIEVMENTS</u></h3>
+                            <i>
+                                <b>~</b> Web Development with Python Django trained<br><br>
+                                <b>~</b> Java Spring Boot framework trained<br><br>
+                                <b>~</b> Cisco course completion certified in python as well as LINUX Beginners to Intermediate level <br><br>
+                                <b>~</b> Achieved certificates and LOR from MyCaptain in Java, C, C++, Web Development, Python<br>
+                            </i>
+                            <br>
+                    </section>
+               
+                <section>
+                    <h3><u>ACADEMIC DETAILS</u> </h3><br>
+                        <center>
+                                <table border="2" cellspacing="5" cellpadding="5">
+                                    <tr>
+                                        <th>Qualifications</th>
+                                        <th>BOARD/UNIVERSITY</th>
+                                        <th>School/College Name</th>
+                                        <th>Percentage</th>
+                                        <th>Passing Year</th>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td>Class 10th Board</td>
+                                        <td align="center"> CBSE </td>
+                                        <td>Delhi Public School </td>
+                                        <td>60%</td>
+                                        <td> 2014-2016 </td>
+                                    </tr>
+        
+                                    <tr>
+                                        <td>Class 12th Board</td>
+                                        <td align="center"> CBSE </td>
+                                        <td>Memari Crystal Model School </td>
+                                        <td>51%</td>
+                                        <td> 2016-2018 </td>
+                                    </tr>
+                
+                                    <tr>
+                                        <td>BCA</td>
+                                        <td> Maulana Abdul Kalam Azad University </td>
+                                        <td>JIS College of Engineering </td>
+                                        <td>74%</td>
+                                        <td> 2018-2021 </td>
+                                    </tr>
+                                    <tr>
+                                        <td>MCA</td>
+                                        <td> Maulana Abdul Kalam Azad University </td>
+                                        <td colspan="2"> JIS College of Engineering </td>
+                                        <td> 2021-2023 </td>
+                                    </tr>
+                                </table>
+                    
+                </section><br>
+                <hr align="center" width="40%">
+                <hr align="center" width="50%"><br>
+
+                <hr align="center" width="50%">
+                <hr align="center" width="40%"><br>
+           <footer>
+                <h3>Tathagata Mitra</h3>
+                    
+                    <address> Vill- Parijat Nagar, P.S- Memari, P.O- Memari, dist- Burdwan, PIN- 713146 </address>
+                    <span>
+                        <a href="mailto:">mitra.tg123@gmail.com</a>
+                        <font color="grey"><b>/</b></font>  
+                        <a href="mailto:">mtathagata144@gmail.com</a>
+                    </span>
+           </footer><br>
+           <hr align="center" width="40%">
+            <hr align="center" width="50%">
+        </font>
+</body>
+</html>

@@ -7,13 +7,13 @@
     <title>Portfolio design using HTML</title>
 
 </head>
-<body bgcolor="sky blue">
+<body bgcolor="#77eb73">
         <font align="center">
 
             <header>
 
-                <hr align="center" width="50%">
-                <hr align="center" width="40%">
+                <hr align="center" width="50%" color= "#1e541c">
+                <hr align="center" width="40%" color= "#1e541c">
 
                   <h1 style="line-height: 60px;color:#0B0B3B;">Tathagata Mitra</h1>
                     <font size="4">
@@ -25,15 +25,15 @@
                     </span>
                    </font> <br><br>
 
-                   <hr align="center" width="40%">
-                    <hr align="center" width="50%">
+                   <hr align="center" width="40%" color= "#1e541c">
+                    <hr align="center" width="50%" color= "#1e541c">
 
             </header><br>
 
                     <section>
 
-                        <hr align="center" width="50%">
-                        <hr align="center" width="40%">
+                        <hr align="center" width="50%" color= "#1e541c">
+                        <hr align="center" width="40%" color= "#1e541c">
 
                         <h3><u>ABOUT ME</u></h3>
                                 <i> Ambitious, Hardworking, responsible person and exploring new technologies. </i>
@@ -100,11 +100,11 @@
                                 </table>
                     
                 </section><br>
-                <hr align="center" width="40%">
-                <hr align="center" width="50%"><br>
+                <hr align="center" width="40%" color= "#1e541c">
+                <hr align="center" width="50%" color= "#1e541c"><br>
 
-                <hr align="center" width="50%">
-                <hr align="center" width="40%"><br>
+                <hr align="center" width="50%" color= "#1e541c">
+                <hr align="center" width="40%" color= "#1e541c"><br>
            <footer>
                 <h3>Tathagata Mitra</h3>
                     
